@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Controls\MyMenuItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Controls\MyMenuPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GroupManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\KaoShiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\StudentManageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TestYouForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TiWenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TiWenFormPrompt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

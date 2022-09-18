@@ -1,0 +1,388 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workdir\\TeachAssist\\TestTest\\TestTest.csproj": {}
+  },
+  "projects": {
+    "D:\\Workdir\\TeachAssist\\TeachAssist.BLL\\TeachAssist.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workdir\\TeachAssist\\TeachAssist.BLL\\TeachAssist.BLL.csproj",
+        "projectName": "TeachAssist.BLL",
+        "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.BLL\\TeachAssist.BLL.csproj",
+        "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
+        "outputPath": "D:\\Workdir\\TeachAssist\\TeachAssist.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Workdir\\TeachAssist\\TeachAssist.DAL\\TeachAssist.DAL.csproj": {
+                "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.DAL\\TeachAssist.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workdir\\TeachAssist\\TeachAssist.DAL\\TeachAssist.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workdir\\TeachAssist\\TeachAssist.DAL\\TeachAssist.DAL.csproj",
+        "projectName": "TeachAssist.DAL",
+        "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.DAL\\TeachAssist.DAL.csproj",
+        "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
+        "outputPath": "D:\\Workdir\\TeachAssist\\TeachAssist.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Workdir\\TeachAssist\\TeachAssist.Models\\TeachAssist.Models.csproj": {
+                "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.Models\\TeachAssist.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workdir\\TeachAssist\\TeachAssist.Models\\TeachAssist.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workdir\\TeachAssist\\TeachAssist.Models\\TeachAssist.Models.csproj",
+        "projectName": "TeachAssist.Models",
+        "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.Models\\TeachAssist.Models.csproj",
+        "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
+        "outputPath": "D:\\Workdir\\TeachAssist\\TeachAssist.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workdir\\TeachAssist\\TeachAssist.Utils\\TeachAssist.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workdir\\TeachAssist\\TeachAssist.Utils\\TeachAssist.Utils.csproj",
+        "projectName": "TeachAssist.Utils",
+        "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.Utils\\TeachAssist.Utils.csproj",
+        "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
+        "outputPath": "D:\\Workdir\\TeachAssist\\TeachAssist.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Speech": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workdir\\TeachAssist\\TeachAssist.Winform\\TeachAssist.Winform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workdir\\TeachAssist\\TeachAssist.Winform\\TeachAssist.Winform.csproj",
+        "projectName": "TeachAssist.Winform",
+        "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.Winform\\TeachAssist.Winform.csproj",
+        "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
+        "outputPath": "D:\\Workdir\\TeachAssist\\TeachAssist.Winform\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Workdir\\TeachAssist\\TeachAssist.BLL\\TeachAssist.BLL.csproj": {
+                "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.BLL\\TeachAssist.BLL.csproj"
+              },
+              "D:\\Workdir\\TeachAssist\\TeachAssist.Utils\\TeachAssist.Utils.csproj": {
+                "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.Utils\\TeachAssist.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Speech": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workdir\\TeachAssist\\TestTest\\TestTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workdir\\TeachAssist\\TestTest\\TestTest.csproj",
+        "projectName": "TestTest",
+        "projectPath": "D:\\Workdir\\TeachAssist\\TestTest\\TestTest.csproj",
+        "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
+        "outputPath": "D:\\Workdir\\TeachAssist\\TestTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Workdir\\TeachAssist\\TeachAssist.BLL\\TeachAssist.BLL.csproj": {
+                "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.BLL\\TeachAssist.BLL.csproj"
+              },
+              "D:\\Workdir\\TeachAssist\\TeachAssist.Utils\\TeachAssist.Utils.csproj": {
+                "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.Utils\\TeachAssist.Utils.csproj"
+              },
+              "D:\\Workdir\\TeachAssist\\TeachAssist.Winform\\TeachAssist.Winform.csproj": {
+                "projectPath": "D:\\Workdir\\TeachAssist\\TeachAssist.Winform\\TeachAssist.Winform.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

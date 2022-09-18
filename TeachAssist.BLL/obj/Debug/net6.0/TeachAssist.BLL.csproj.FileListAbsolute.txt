@@ -1,0 +1,17 @@
+D:\Workdir\TeachAssist\TeachAssist.BLL\obj\Debug\net6.0\TeachAssist.BLL.csproj.AssemblyReference.cache
+D:\Workdir\TeachAssist\TeachAssist.BLL\obj\Debug\net6.0\TeachAssist.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workdir\TeachAssist\TeachAssist.BLL\obj\Debug\net6.0\TeachAssist.BLL.AssemblyInfoInputs.cache
+D:\Workdir\TeachAssist\TeachAssist.BLL\obj\Debug\net6.0\TeachAssist.BLL.AssemblyInfo.cs
+D:\Workdir\TeachAssist\TeachAssist.BLL\obj\Debug\net6.0\TeachAssist.BLL.csproj.CoreCompileInputs.cache
+D:\Workdir\TeachAssist\TeachAssist.BLL\bin\Debug\net6.0\TeachAssist.BLL.deps.json
+D:\Workdir\TeachAssist\TeachAssist.BLL\bin\Debug\net6.0\TeachAssist.BLL.dll
+D:\Workdir\TeachAssist\TeachAssist.BLL\bin\Debug\net6.0\TeachAssist.BLL.pdb
+D:\Workdir\TeachAssist\TeachAssist.BLL\bin\Debug\net6.0\TeachAssist.DAL.dll
+D:\Workdir\TeachAssist\TeachAssist.BLL\bin\Debug\net6.0\TeachAssist.Models.dll
+D:\Workdir\TeachAssist\TeachAssist.BLL\bin\Debug\net6.0\TeachAssist.DAL.pdb
+D:\Workdir\TeachAssist\TeachAssist.BLL\bin\Debug\net6.0\TeachAssist.Models.pdb
+D:\Workdir\TeachAssist\TeachAssist.BLL\obj\Debug\net6.0\TeachAssist.BLL.csproj.CopyComplete
+D:\Workdir\TeachAssist\TeachAssist.BLL\obj\Debug\net6.0\TeachAssist.BLL.dll
+D:\Workdir\TeachAssist\TeachAssist.BLL\obj\Debug\net6.0\refint\TeachAssist.BLL.dll
+D:\Workdir\TeachAssist\TeachAssist.BLL\obj\Debug\net6.0\TeachAssist.BLL.pdb
+D:\Workdir\TeachAssist\TeachAssist.BLL\obj\Debug\net6.0\ref\TeachAssist.BLL.dll
